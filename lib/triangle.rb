@@ -1,7 +1,7 @@
 class Triangle
   
   
-  def initialize(kind)
+  def initialize()
     
     
 end
