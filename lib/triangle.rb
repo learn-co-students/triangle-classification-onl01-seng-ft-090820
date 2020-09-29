@@ -1,3 +1,9 @@
 class Triangle
-  # write code here
+  
+  
+  def initialize(kind)
+    @
+    @
+    @
+    
 end
