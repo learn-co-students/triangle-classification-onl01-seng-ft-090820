@@ -19,7 +19,7 @@ class Triangle
       :scalene
     end
   end
-  
+  #raise error
   class TriangleError < StandardError
     
   end
